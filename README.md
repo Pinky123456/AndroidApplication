@@ -1,2 +1,4 @@
 # App
-my first Android Application - HelloWorld( Obviously I did nothing but create a new project )
+assignment_001
+here is my demo
+![Weather application - Design](img_folder/demo.gif)
